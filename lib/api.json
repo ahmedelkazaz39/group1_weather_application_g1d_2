@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": 30.5466,
+    "lat": 31.2006
+  },
+  "weather": [
+    {
+      "id": 801,
+      "main": "Clouds",
+      "description": "few clouds",
+      "icon": "02n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 295.72,
+    "feels_like": 295.68,
+    "temp_min": 295.72,
+    "temp_max": 295.72,
+    "pressure": 1016,
+    "humidity": 63,
+    "sea_level": 1016,
+    "grnd_level": 1015
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 1.64,
+    "deg": 315,
+    "gust": 1.99
+  },
+  "clouds": {
+    "all": 16
+  },
+  "dt": 1729105497,
+  "sys": {
+    "country": "EG",
+    "sunrise": 1729051275,
+    "sunset": 1729092303
+  },
+  "timezone": 10800,
+  "id": 356806,
+  "name": "Fuwwah",
+  "cod": 200
+}
